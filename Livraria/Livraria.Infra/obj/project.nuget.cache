@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hvwvlvkzyY/B90BCDAst3uXAyXl1G4iiGYxC+Srtj/BVCAwfhEjwam5pf5qQdVtNAnTwFZDGNXoOec/eerjjBw==",
+  "dgSpecHash": "BYGxkf0iWOKZ22Tu8su9qg4jnjJRpfQXelj/1lgO+9oytMNUvtb+yMiIhfvu/EnHBGpGMGa9LHq2y0AbECxoSQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\conta\\Documents\\Workspace\\Livraria\\Livraria.Infra\\Livraria.Infra.csproj",
+  "projectFilePath": "C:\\Users\\conta\\Documents\\Workspace\\api-csharp\\Livraria\\Livraria.Infra\\Livraria.Infra.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -12,3 +12,17 @@ C:\Users\conta\Documents\Workspace\Livraria\Livraria.Domain\obj\Debug\net5.0\Liv
 C:\Users\conta\Documents\Workspace\Livraria\Livraria.Domain\obj\Debug\net5.0\Livraria.Domain.dll
 C:\Users\conta\Documents\Workspace\Livraria\Livraria.Domain\obj\Debug\net5.0\ref\Livraria.Domain.dll
 C:\Users\conta\Documents\Workspace\Livraria\Livraria.Domain\obj\Debug\net5.0\Livraria.Domain.pdb
+C:\Users\conta\Documents\Workspace\api-csharp\Livraria\Livraria.Domain\bin\Debug\net5.0\Livraria.Domain.deps.json
+C:\Users\conta\Documents\Workspace\api-csharp\Livraria\Livraria.Domain\bin\Debug\net5.0\Livraria.Domain.dll
+C:\Users\conta\Documents\Workspace\api-csharp\Livraria\Livraria.Domain\bin\Debug\net5.0\ref\Livraria.Domain.dll
+C:\Users\conta\Documents\Workspace\api-csharp\Livraria\Livraria.Domain\bin\Debug\net5.0\Livraria.Domain.pdb
+C:\Users\conta\Documents\Workspace\api-csharp\Livraria\Livraria.Domain\bin\Debug\net5.0\Livraria.Infra.dll
+C:\Users\conta\Documents\Workspace\api-csharp\Livraria\Livraria.Domain\bin\Debug\net5.0\Livraria.Infra.pdb
+C:\Users\conta\Documents\Workspace\api-csharp\Livraria\Livraria.Domain\obj\Debug\net5.0\Livraria.Domain.csproj.AssemblyReference.cache
+C:\Users\conta\Documents\Workspace\api-csharp\Livraria\Livraria.Domain\obj\Debug\net5.0\Livraria.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conta\Documents\Workspace\api-csharp\Livraria\Livraria.Domain\obj\Debug\net5.0\Livraria.Domain.AssemblyInfoInputs.cache
+C:\Users\conta\Documents\Workspace\api-csharp\Livraria\Livraria.Domain\obj\Debug\net5.0\Livraria.Domain.AssemblyInfo.cs
+C:\Users\conta\Documents\Workspace\api-csharp\Livraria\Livraria.Domain\obj\Debug\net5.0\Livraria.Domain.csproj.CoreCompileInputs.cache
+C:\Users\conta\Documents\Workspace\api-csharp\Livraria\Livraria.Domain\obj\Debug\net5.0\Livraria.Domain.dll
+C:\Users\conta\Documents\Workspace\api-csharp\Livraria\Livraria.Domain\obj\Debug\net5.0\ref\Livraria.Domain.dll
+C:\Users\conta\Documents\Workspace\api-csharp\Livraria\Livraria.Domain\obj\Debug\net5.0\Livraria.Domain.pdb

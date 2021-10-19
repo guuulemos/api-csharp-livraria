@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2yoLchdsrGezTLnSBQHJ3alpD1v35evfn2CEaVTGbCporUvzwi+oln+1f61QL4L63uhXXfH+gPaAk/mzttOz5A==",
+  "dgSpecHash": "3mkqjyT3yH5r+MGGm7NuhCxSNlnj6A06QLekgr5Ah1jvDAjwr6Sjk9UOpk2KWi9uPrfUNCWloO+PGJ8wm5CsVA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\conta\\Documents\\Workspace\\Livraria\\Livraria.Infra.Data\\Livraria.Infra.Data.csproj",
+  "projectFilePath": "C:\\Users\\conta\\Documents\\Workspace\\api-csharp\\Livraria\\Livraria.Infra.Data\\Livraria.Infra.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\conta\\.nuget\\packages\\dapper\\2.0.90\\dapper.2.0.90.nupkg.sha512",
     "C:\\Users\\conta\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512",

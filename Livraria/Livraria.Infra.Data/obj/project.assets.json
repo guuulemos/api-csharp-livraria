@@ -544,11 +544,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\conta\\Documents\\Workspace\\Livraria\\Livraria.Infra.Data\\Livraria.Infra.Data.csproj",
+      "projectUniqueName": "C:\\Users\\conta\\Documents\\Workspace\\api-csharp\\Livraria\\Livraria.Infra.Data\\Livraria.Infra.Data.csproj",
       "projectName": "Livraria.Infra.Data",
-      "projectPath": "C:\\Users\\conta\\Documents\\Workspace\\Livraria\\Livraria.Infra.Data\\Livraria.Infra.Data.csproj",
+      "projectPath": "C:\\Users\\conta\\Documents\\Workspace\\api-csharp\\Livraria\\Livraria.Infra.Data\\Livraria.Infra.Data.csproj",
       "packagesPath": "C:\\Users\\conta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\conta\\Documents\\Workspace\\Livraria\\Livraria.Infra.Data\\obj\\",
+      "outputPath": "C:\\Users\\conta\\Documents\\Workspace\\api-csharp\\Livraria\\Livraria.Infra.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\conta\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -565,11 +565,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\conta\\Documents\\Workspace\\Livraria\\Livraria.Domain\\Livraria.Domain.csproj": {
-              "projectPath": "C:\\Users\\conta\\Documents\\Workspace\\Livraria\\Livraria.Domain\\Livraria.Domain.csproj"
+            "C:\\Users\\conta\\Documents\\Workspace\\api-csharp\\Livraria\\Livraria.Domain\\Livraria.Domain.csproj": {
+              "projectPath": "C:\\Users\\conta\\Documents\\Workspace\\api-csharp\\Livraria\\Livraria.Domain\\Livraria.Domain.csproj"
             },
-            "C:\\Users\\conta\\Documents\\Workspace\\Livraria\\Livraria.Infra\\Livraria.Infra.csproj": {
-              "projectPath": "C:\\Users\\conta\\Documents\\Workspace\\Livraria\\Livraria.Infra\\Livraria.Infra.csproj"
+            "C:\\Users\\conta\\Documents\\Workspace\\api-csharp\\Livraria\\Livraria.Infra\\Livraria.Infra.csproj": {
+              "projectPath": "C:\\Users\\conta\\Documents\\Workspace\\api-csharp\\Livraria\\Livraria.Infra\\Livraria.Infra.csproj"
             }
           }
         }

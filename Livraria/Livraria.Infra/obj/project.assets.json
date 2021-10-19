@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\conta\\Documents\\Workspace\\Livraria\\Livraria.Infra\\Livraria.Infra.csproj",
+      "projectUniqueName": "C:\\Users\\conta\\Documents\\Workspace\\api-csharp\\Livraria\\Livraria.Infra\\Livraria.Infra.csproj",
       "projectName": "Livraria.Infra",
-      "projectPath": "C:\\Users\\conta\\Documents\\Workspace\\Livraria\\Livraria.Infra\\Livraria.Infra.csproj",
+      "projectPath": "C:\\Users\\conta\\Documents\\Workspace\\api-csharp\\Livraria\\Livraria.Infra\\Livraria.Infra.csproj",
       "packagesPath": "C:\\Users\\conta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\conta\\Documents\\Workspace\\Livraria\\Livraria.Infra\\obj\\",
+      "outputPath": "C:\\Users\\conta\\Documents\\Workspace\\api-csharp\\Livraria\\Livraria.Infra\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\conta\\AppData\\Roaming\\NuGet\\NuGet.Config",
