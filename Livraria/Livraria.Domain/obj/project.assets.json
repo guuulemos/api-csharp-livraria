@@ -1,0 +1,118 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Flunt/1.0.5": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Flunt.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Flunt.dll": {}
+        }
+      },
+      "Livraria.Infra/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Livraria.Infra.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Livraria.Infra.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Flunt/1.0.5": {
+      "sha512": "2p1B/LLsMf0bGwyMQK48/278OXTodXn3HyTU1v7fr/x0bNfrVSNC1Do1PxbgiOlDLChtAbtt1kPgXFqUnGAagg==",
+      "type": "package",
+      "path": "flunt/1.0.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "flunt.1.0.5.nupkg.sha512",
+        "flunt.nuspec",
+        "lib/netstandard2.0/Flunt.dll"
+      ]
+    },
+    "Livraria.Infra/1.0.0": {
+      "type": "project",
+      "path": "../Livraria.Infra/Livraria.Infra.csproj",
+      "msbuildProject": "../Livraria.Infra/Livraria.Infra.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Flunt >= 1.0.5",
+      "Livraria.Infra >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\conta\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\conta\\Documents\\Workspace\\api-csharp-livraria\\Livraria\\Livraria.Domain\\Livraria.Domain.csproj",
+      "projectName": "Livraria.Domain",
+      "projectPath": "C:\\Users\\conta\\Documents\\Workspace\\api-csharp-livraria\\Livraria\\Livraria.Domain\\Livraria.Domain.csproj",
+      "packagesPath": "C:\\Users\\conta\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\conta\\Documents\\Workspace\\api-csharp-livraria\\Livraria\\Livraria.Domain\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\conta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\conta\\Documents\\Workspace\\api-csharp-livraria\\Livraria\\Livraria.Infra\\Livraria.Infra.csproj": {
+              "projectPath": "C:\\Users\\conta\\Documents\\Workspace\\api-csharp-livraria\\Livraria\\Livraria.Infra\\Livraria.Infra.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "dependencies": {
+          "Flunt": {
+            "target": "Package",
+            "version": "[1.0.5, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

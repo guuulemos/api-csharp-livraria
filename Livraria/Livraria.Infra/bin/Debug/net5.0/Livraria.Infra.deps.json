@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Livraria.Infra/1.0.0": {
+        "runtime": {
+          "Livraria.Infra.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Livraria.Infra/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
